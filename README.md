@@ -1,4 +1,4 @@
-# RecommendOn - Movie Recommendation System for HackOn
+# Movie Recommendation System using GenAI
 
 ## Features
 
